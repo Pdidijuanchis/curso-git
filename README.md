@@ -1,2 +1,2 @@
-# curso-git
-aprendiendo a utilizar comandos git 
+
+# curso-git de spopobich3
